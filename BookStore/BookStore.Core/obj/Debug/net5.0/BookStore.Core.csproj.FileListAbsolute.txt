@@ -1,0 +1,12 @@
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\bin\Debug\net5.0\BookStore.Core.deps.json
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\bin\Debug\net5.0\BookStore.Core.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\bin\Debug\net5.0\ref\BookStore.Core.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\bin\Debug\net5.0\BookStore.Core.pdb
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.csproj.AssemblyReference.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.AssemblyInfo.cs
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\ref\BookStore.Core.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_BookStore\BookStore\BookStore.Core\obj\Debug\net5.0\BookStore.Core.pdb
